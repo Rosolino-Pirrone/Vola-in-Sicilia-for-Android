@@ -1,0 +1,74 @@
+[
+  {
+    "plantId": "Monte Balatelle",
+    "name": "Monte Balatelle",
+    "descrizioneita": "Questo sito di volo dispone di due decolli entrambi raggiungibili in auto. Quello di Monte Balatelle e dal quale ci si trova subito in volo sopra la cava di Bolognetta e quello da noi chiamato “Delle Antenne”per via della presenza dei ripetitori di Marineo, dopo il decollo si punta verso Monte Balatelle dove facilmente si rifara’ quota in termodinamica. Nelle giornate migliori permette voli di cross ad ovest verso Piana Degli Albanesi “Maganoce Kumeta” fino a S.Giuseppe Jato.",
+    "growZoneNumber": 3,
+    "wateringInterval": 780,
+    "imageUrl": "https://rosolinoblog.files.wordpress.com/2019/02/screenshot-210.png",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=37.949298, 13.450542",
+    "description": "This flight site has two take-offs both reachable by car. The one of Monte Balatelle and from which you are immediately in flight over the Bolognetta quarry and the one called by us \"Delle Antenne\" because of the presence of the Marineo repeaters, after take-off you head towards Monte Balatelle where you can easily make up for altitude in thermodynamics. In the best days it allows cross flights to the west towards Piana Degli Albanesi \"Maganoce Kumeta\" up to S. Giuseppe Jato."
+  },
+  {
+    "plantId": "Monte Maganoce",
+    "name": "Monte Maganoce",
+    "descrizioneita": "Non più raggiungibile in auto, Monte Maganoce si trova nei pressi di Piana Degli Albanesi, con splendida vista del lago il quale sapra’ regalarvi splendidi tramonti in volo di restituzione termica estiva o di termodinamica tutto l’ anno. Permette voli di cross sia ad ovest verso S.Giuseppe Iato che ad est verso il decollo di Bolognetta - Marineo Monte Balatelle. Particolarmente indicato nelle giornate di maggiore stabilita’ invernale il decollo di sud-ovest.",
+    "growZoneNumber": 2,
+    "wateringInterval": 900,
+    "imageUrl": "https://rosolinoblog.files.wordpress.com/2020/06/senza20nome204.jpg",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=37.960551, 13.298078",
+    "description": "No longer reachable by car, Monte Maganoce is located near Piana Degli Albanesi, with a splendid view of the lake which will give you splendid sunsets in flight for summer thermal restitution or thermodynamics all year round. It allows cross flights both to the west towards S. Giuseppe Iato and to the east towards the take-off of Bolognetta - Marineo Monte Balatelle. Southwest take-off particularly indicated on days of greater winter stability."
+  },
+  {
+    "plantId": "Cefalù",
+    "name": "Cefalù",
+    "descrizioneita": "Che dire di questo sito di volo, semplicemente spettacolare. Si vola con vento da nord, immancabile la brezza d’estate. I decolli sono due. Dal decollo più alto si arriva mediamente sulla spiaggia con 200m di quota ma se siete fortunati potrete agganciare qualche termica che vi farà fare abbastanza quota per poter scegliere di godervi lo splendido panorama o visto che siete sopra il mare di scaricare un po’ di adrenalina in piu’ provando qualche figura inusuale. Si atterra in spiaggia facendo attenzione ai bagnanti. L’altro decollo posto nelle vicinanze di alcuni ripetitori si trova a circa 250m sul mare dal quale si atterra invece nella spiaggia delle Salinelle. Fate attenzione al vento di Levante o sarete in leggero sottovento.",
+    "growZoneNumber": 2,
+    "wateringInterval": 485,
+    "imageUrl": "https://rosolinoblog.files.wordpress.com/2020/06/senza20nome2019.jpg",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=38.017900, 14.01000",
+    "description": "What about this flying site, simply spectacular. We fly with the north wind, the summer breeze is inevitable. There are two take-offs. From the highest take-off you arrive on average on the beach with 200m of altitude but if you are lucky you can hook some thermal that will make you do enough altitude to be able to choose to enjoy the splendid panorama or since you are above the sea to download some adrenaline in more 'trying some unusual figure. You land on the beach paying attention to the swimmers. The other take-off placed near some repeaters is located about 250m above the sea from which it lands on the Salinelle beach instead. Pay attention to the east wind or you will be slightly downwind."
+  },
+  {
+    "plantId": "Rocca Busambra",
+    "name": "Rocca Busambra",
+    "descrizioneita": "Esposto sia a nord che a sud si decolla da Pizzo di Casa “Portella del Vento”. Il volo a nord consigliato solo a piloti esperti per via di possibili rotori di sottovento conduce fino al sorvolo di Mezzoiuso con atterraggio nei pressi del bivio con la statale. Il volo a sud molto piu’ sicuro ma altrettanto bello ed emozionante prevede anche un decollo a quota 1400m non raggiungibile in auto con atteraggio a Giardinello .Voli di cross possibili ad ovest.",
+    "growZoneNumber": 9,
+    "wateringInterval": 1200,
+    "imageUrl": "https://rosolinoblog.files.wordpress.com/2020/06/senza20nome203.jpg",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=37.843900, 13.445000",
+    "description": "Exposed to both north and south, it takes off from Pizzo di Casa \"Portella del Vento\". The north flight recommended only for experienced pilots due to possible downwind rotors leads to the Mezzoiuso overflight with landing near the crossroads with the main road. The much safer but equally beautiful and exciting flight to the south also provides for a take-off at an altitude of 1400m which cannot be reached by car with landing in Giardinello. Possible cross flights to the west."
+  },
+  {
+    "plantId": "Monte Kumeta",
+    "name": "Monte Kumeta",
+    "descrizioneita": "Monte Kumeta offre molteplici decolli, il piu’ frequente quello di sud dal quale si vola prevalentemente nelle giornate prefrontali invernali. Voli di cross sono possibili ad est verso Monte Maganoce mentre ad ovest verso Monte Jato. Con vento da nord-est si decolla direttamente dalla falesia.",
+    "growZoneNumber": 9,
+    "wateringInterval": 1200,
+    "imageUrl": "https://rosolinoblog.files.wordpress.com/2020/06/senza20nome207.jpg",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=37.969500, 13.250628",
+    "description": "Monte Kumeta offers multiple take-offs, the most frequent being that of the south from which you fly mainly on prefrontal winter days. Cross flights are possible in the east towards Monte Maganoce while in the west towards Monte Jato. With north-east wind, it takes off directly from the cliff."
+  },
+
+  {
+    "plantId": "Scopello",
+    "name": "Scopello",
+    "descrizioneita": "In realtà ero molto indeciso se includere Scopello nei siti di volo in quanto dai dati non sembrerebbe, invece si tratta di un volo vero e proprio e non di un campetto, con tutte le attenzioni del caso. Si vola con vento da nord, meglio se con qualche grado di nord-ovest. Premetto che si tratta di un volo per esperti in relazione al tipo di decollo e  di atterraggio nella stagione estiva. Si decolla praticamente dalla strada nei pressi di un posteggio con lo spazio a malapena per distendere la vela, fate voi a meno di non trovare un posto migliore, mentre l’atterraggio nella spiaggia non sarebbe un problema se non per i bagnanti nella zona fuori ascendenza dinamica. In volo al contrario è una goduria veleggiando in termodinamica fin quanto dura la brezza con la compagnia dei pennuti lungo tutto il costone.",
+    "growZoneNumber": 4,
+    "wateringInterval": 35,
+    "imageUrl": "https://rosolinoblog.files.wordpress.com/2020/06/27-07-09_1611.jpg",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=38.054980, 12.842950",
+    "description": "In reality I was very undecided whether to include Scopello in the flight sites as the data would not seem, instead it is a real flight and not a pitch, with all the necessary attention. It flies with north wind, preferably with some north-west degree. I state that it is a flight for experts in relation to the type of take-off and landing in the summer season. You take off practically from the road near a car park with barely enough space to relax the sail, you do without finding a better place, while landing on the beach would not be a problem if not for bathers in the area outside the ancestry dynamic. On the other hand, flying is a pleasure sailing in thermodynamics as long as the breeze lasts with the company of the feathered along the ridge."
+  },
+  {
+    "plantId": "Castellammare Del Golfo",
+    "name": "Castellammare Del Golfo",
+    "descrizioneita": "Non ho avuto modo di girare molto il territorio di Castellammare Del Golfo anche se un’idea già l’avevo. \"Dopo aver constatato essendoci stato molte volte al mare che la brezza spira di frequente da Nord-Ovest\" quale potesse essere l’esposizione migliore per il decollo, infatti è proprio da quel versante che ho preferito scegliere il decollo, a quota 630m,dal lato Scopello per intenderci. Lo spazio in decollo è abbondante volendo anche per fare top facendo attenzione alle rocce. In quasi totale assenza di vento in decollo ho soltanto trovato e per un brevissimo tratto un po di turbolenza alla fine del costone verso Nord \"probabilmente generata da termodinamica sottostante\" . In queste condizioni ho sorvolato il porto di Castellammare del Golfo con ancora 380m di quota per poi raggiungere l’inizio della spiaggia con circa 230m ed in atterraggio con poco meno di 150m, sicuramente il vento a favore ha giocato un ruolo determinante in termini di efficenza suolo. Ad ogni modo a Nord-Ovest, in caso di condizioni pessime si può decidere di atterrare nelle vicinanze del bivio di Scopello. Il panorama di cui si può godere ovviamente è invidiabile come in tutti i siti di volo sul mare.",
+    "growZoneNumber": 4,
+    "wateringInterval": 630,
+    "imageUrl": "https://rosolinoblog.files.wordpress.com/2020/06/25052011640.jpg",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=38.023400, 12.861000",
+    "description": "I have not had the opportunity to go around the territory of Castellammare Del Golfo very much even though I already had an idea. \"After finding that the breeze frequently blows from the north-west, having been there many times to the sea\" what could be the best exposure for take-off, in fact it is precisely from that side that I preferred to choose the take-off, at an altitude of 630m, from Scopello side to be clear. The take-off space is abundant also wanting to make tops paying attention to the rocks. In almost total absence of wind taking off I only found and for a very short stretch a bit of turbulence at the end of the north ridge \"probably generated by underlying thermodynamics\". In these conditions I flew over the port of Castellammare del Golfo with still 380m of altitude and then reached the beginning of the beach with about 230m and landing with just under 150m, surely the wind in favor played a decisive role in terms of efficiency soil. In any case, in the North-West, in case of bad conditions, you can decide to land near the crossroads of Scopello. The panorama that can be enjoyed is obviously enviable as in all flight sites on the sea."
+  }
+
+]
